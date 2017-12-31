@@ -11,7 +11,7 @@ RaspberryPi3での簡単なGPIO制御
 + LED  
 + 抵抗器(10Ω)  
 ## Circuit
-![]()　
+![](https://github.com/Enokida1223/robosys2017_assignment1-/blob/master/img_01.jpg)　
 ## Usage
 + LEDを光らせる  
 `echo 1 > /dev/myled0`
