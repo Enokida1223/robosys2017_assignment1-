@@ -18,3 +18,4 @@ RaspberryPi3での簡単なGPIO制御
 + 寿司を大量に表示させる  
 `cat /dev/myled0`
 ## Reference/Quotation
+https://github.com/ryuichiueda/robosys2017/blob/master/07.md
