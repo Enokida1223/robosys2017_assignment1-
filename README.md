@@ -10,6 +10,8 @@ RaspberryPi3での簡単なGPIO制御
   + kernel build scripts:https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts  
 + LED  
 + 抵抗器(10Ω)  
+## Circuit
+![]()　
 ## Usage
 + LEDを光らせる  
 `echo 1 > /dev/myled0`
